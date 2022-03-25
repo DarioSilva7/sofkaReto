@@ -308,13 +308,3 @@ C) 1.110.000 millones
 
 D) 1.108.000 millones
 
-
-```javascript
-Lamentablemente la aplicación no esta funcional, ya que no pude dedicarle el tiempo que requería, muchas gracias por esta gran oportunidad!
-Realmente fue muy divertido trabajar en un proyecto como este.
-
-Mencion aparte, muchas gracias por su tan amable trato, respeto, y predisposición.
-
-Saludos!!
-
-```
