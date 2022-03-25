@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Nivel 1",
+        "nivel": 1 ,
+        "premio": 10
+    },
+    {
+        "nombre": "Nivel 2",
+        "nivel": 2 ,
+        "premio": 20
+    },
+    {
+        "nombre": "Nivel 3",
+        "nivel": 3 ,
+        "premio": 30
+    },
+    {
+        "nombre": "Nivel 4",
+        "nivel": 4 ,
+        "premio": 40
+    },
+    {   
+        "nombre": "Nivel 5",
+        "nivel": 5 ,
+        "premio": 100
+    }
+]

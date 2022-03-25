@@ -1,0 +1,18 @@
+[
+    {
+        "interrogante": "¿CUAL ES EL RIO MAS LARGO?",
+        "opc1": "El río Amarillo", 
+        "opc2": "El Amazonas",
+        "opc3": "El Nilo",
+        "opc4": "El Éufrates",
+        "categoria": "623bfb5fc89c01d5bd625a63"
+    },
+    {
+        "interrogante": "¿CUAL ES EL PAIS CON MAS HABITANTES?",
+        "opc1": "China",
+        "opc2": "India",
+        "opc3": "Estados Unidos",
+        "opc4": "Rusia",
+        "categoria": "623bfb5fc89c01d5bd625a64"
+    }
+]
